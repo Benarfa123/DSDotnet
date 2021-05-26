@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domaine.Entities.Entreprise">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBAgAAAAAACACABAAAAAAAAAAQAAAQAA=</HashCode>
+      <FileName>Entities\Entreprise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domaine.Entities.Adresse">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Adresse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domaine.Entities.Offre">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAgACAAAAEEAAAEAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Offre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domaine.Entities.Postulant">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAACAQBAAAACAAAAAAQAA=</HashCode>
+      <FileName>Entities\Postulant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Domaine.Entities.Secteur">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAMAAAAAECAAYAIAAAAAAAAAAQBAAAAAA=</HashCode>
+      <FileName>Entities\Entreprise.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Domaine.Entities.TypeContrat">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Entities\Offre.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

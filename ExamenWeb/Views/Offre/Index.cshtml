@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Domaine.Entities.Offre>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Liste des offres</h2>
+@using (Html.BeginForm())
+{<table>
+        <tr>
+            <td>
+                <div>
+                    Recherche par Ville: @Html.TextBox("filtre")
+                </div>
+            </td>
+            <td> <input type="submit" value="Search" id="submit" /> </td>
+        </tr>
+    </table>}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdOffre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TitreOffre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DatePublication)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TypeContrat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Entreprise.NomEntreprise)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Entreprise.Adresse.Ville)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdOffre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TitreOffre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DatePublication)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TypeContrat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Entreprise.NomEntreprise)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Entreprise.Adresse.Ville)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+    }
+
+</table>

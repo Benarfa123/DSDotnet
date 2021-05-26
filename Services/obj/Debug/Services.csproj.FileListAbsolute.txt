@@ -1,0 +1,87 @@
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Services.dll.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Services.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Services.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Data.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Domaine.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\EntityFramework.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Service.Pattern.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Data.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Domaine.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\Service.Pattern.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\EntityFramework.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\fr\EntityFramework.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\obj\Debug\Services.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Services\obj\Debug\Services.pdb
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Services.dll.config
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Services.dll
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Services.pdb
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Data.dll
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Domaine.dll
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\EntityFramework.dll
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Service.Pattern.dll
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Data.pdb
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Data.dll.config
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Domaine.pdb
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Domaine.dll.config
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Service.Pattern.pdb
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\Service.Pattern.dll.config
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\EntityFramework.xml
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Nesrine\source\repos\Examen\Services\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Nesrine\source\repos\Examen\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Nesrine\source\repos\Examen\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Nesrine\source\repos\Examen\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Nesrine\source\repos\Examen\Services\obj\Debug\Services.dll
+C:\Users\Nesrine\source\repos\Examen\Services\obj\Debug\Services.pdb
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Services.dll.config
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Services.dll
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Services.pdb
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Data.dll
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Domaine.dll
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\EntityFramework.dll
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\EntityFramework.SqlServer.dll
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Service.Pattern.dll
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Data.pdb
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Data.dll.config
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Domaine.pdb
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Domaine.dll.config
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Service.Pattern.pdb
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\Service.Pattern.dll.config
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\EntityFramework.xml
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\EntityFramework.SqlServer.xml
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\fr\EntityFramework.resources.dll
+F:\Examen\Examen Nesrine\Examen\Services\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+F:\Examen\Examen Nesrine\Examen\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Examen\Examen Nesrine\Examen\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+F:\Examen\Examen Nesrine\Examen\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Examen\Examen Nesrine\Examen\Services\obj\Debug\Services.dll
+F:\Examen\Examen Nesrine\Examen\Services\obj\Debug\Services.pdb
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Services.dll.config
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Services.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Services.pdb
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Data.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Domaine.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\EntityFramework.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\EntityFramework.SqlServer.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Service.Pattern.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Data.pdb
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Data.dll.config
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Domaine.pdb
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Domaine.dll.config
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Service.Pattern.pdb
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\Service.Pattern.dll.config
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\EntityFramework.xml
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\EntityFramework.SqlServer.xml
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\fr\EntityFramework.resources.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Examen\Examen Nesrine\ExamenOffre\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+F:\Examen\Examen Nesrine\ExamenOffre\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Examen\Examen Nesrine\ExamenOffre\Services\obj\Debug\Services.dll
+F:\Examen\Examen Nesrine\ExamenOffre\Services\obj\Debug\Services.pdb
